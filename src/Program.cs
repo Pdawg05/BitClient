@@ -8,7 +8,7 @@ using net.vieapps.Components.Utility;
 using Figgle;
 using System.IO;
 
-namespace ManualBitcoinTransaction
+namespace BitconClient
 {
     class Program
     {
